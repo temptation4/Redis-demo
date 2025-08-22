@@ -3,7 +3,7 @@
 ## 📌 Overview
 This project demonstrates **how to integrate Redis caching** into a Spring Boot application using **Jedis** as the connection factory.  
 The application manages **Product** data, caching frequently accessed records to improve performance and reduce database load.
-
+ 
 It supports:
 - Fetching products by ID, category, or top-selling list
 - Updating and deleting products
